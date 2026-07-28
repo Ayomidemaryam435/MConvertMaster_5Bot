@@ -1,0 +1,6 @@
+python-telegram-bot==21.4
+Pillow==10.4.0
+pydub==0.25.1
+pdf2docx==0.5.8
+pypdf==4.3.1
+python-docx==1.1.2
